@@ -1,0 +1,6 @@
+Let's start the node.js 
+const student=new mongoose.schema{
+	roll.no:{
+	type:Number
+}
+}
